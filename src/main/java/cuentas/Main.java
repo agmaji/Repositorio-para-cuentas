@@ -13,7 +13,6 @@ public class Main {
 
         operativa_cuenta(cuenta1, 0);
     }
-//Refactorizado
     
     public static void operativa_cuenta(CCuenta cuenta1, float cantidad) {
         try {
