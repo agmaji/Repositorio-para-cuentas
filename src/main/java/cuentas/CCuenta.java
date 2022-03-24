@@ -2,8 +2,6 @@
 package cuentas;
 
 /**
- * <h1>Clase cuenta</h1>
- * 
  * Contiene información de cada cuenta corriente
  * 
  * @author Agustín
